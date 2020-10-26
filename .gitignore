@@ -1,0 +1,7 @@
+.vscode
+.ipynb_checkpoints
+Pipfile
+Pipfile.lock
+data-20200916T120419Z-001.zip
+data/*
+yolov5/*
